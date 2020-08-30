@@ -1,7 +1,7 @@
 #  E-commerce Back End
 Back end built for an e-commerce site. Using  Express.js API and Sequelize to interact with a MySQL database.
 ---
-![]()
+![](https://github.com/Mayorgak/e-commerce-back-end/blob/master/images/GET%20categories.png)
 ---
 
 ## Installation
@@ -16,7 +16,7 @@ Run node server.js to start the application
 ---
 ## Link 
 
-
+https://youtu.be/sYvuCLSUNno
 
 ---
 
